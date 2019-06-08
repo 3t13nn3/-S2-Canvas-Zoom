@@ -5,6 +5,6 @@ A simple zoom made with Javascript & Canvas as we can see in online shops.
 
 Lauch index.html with you preferred browser and move your mouse over the picture.
 
-## Authors
+## Author
 
 * **Etienne PENAULT** - *Web* - Paris VIII
